@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/a456f38e7c5d431ba67cf1a8bc8ce494/artifacts
+end_time: 1654095205490
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a456f38e7c5d431ba67cf1a8bc8ce494
+run_uuid: a456f38e7c5d431ba67cf1a8bc8ce494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654095203970
+status: 3
+tags: []
+user_id: sudarshan.magaji
